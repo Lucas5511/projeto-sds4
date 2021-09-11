@@ -1,0 +1,12 @@
+postgres://
+
+knwurizbrvcjxz
+:
+a5f31c41ea83112bbed9b40a60973cce182102cbe0cca6e086045d6ae1826402
+
+@
+ec2-54-147-126-173.compute-1.amazonaws.com
+:
+5432
+/
+dir120fn1kl71
