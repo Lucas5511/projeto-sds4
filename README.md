@@ -1,4 +1,4 @@
-# Projeto Semana spring boot react
+# Projeto Semana Springboot & React
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Lucas5511/projeto-sds4/blob/master/LICENSE) 
 
 # Sobre o projeto
